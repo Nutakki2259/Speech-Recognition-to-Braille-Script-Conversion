@@ -20,4 +20,5 @@ The improvements on the process and application of the code in daily usage.
 
 ### References
 [1] https://towardsdatascience.com/easy-speech-to-text-with-python-3df0d973b426
+
 [2] https://www.researchgate.net/publication/342169863_Speech_to_Braille_Convertor_for_Visually_Impaired_Using_Python
