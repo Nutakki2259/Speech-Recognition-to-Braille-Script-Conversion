@@ -1,5 +1,5 @@
 # Speech Recognition to Louis Braille Script Conversion
-### The conversion of the voice through Google speech recognition is converted into Louis Braille  through Python programming.
+### The conversion of the Google speech recognition into Louis Braille through Python programming.
 
 ## 1. Initial Prerequisites
 Install speech recognition using `pip install SpeechRecognition` and
